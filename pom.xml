@@ -49,7 +49,6 @@
     https://docs.sonatype.org/display/Repository/Sonatype+OSS+Maven+Repository+Usage+Guide 
     https://docs.sonatype.org/display/Repository/How+To+Generate+PGP+Signatures+With+Maven -->
     <build>
-<!--        &lt;!&ndash; relevant for dokka  &ndash;&gt;-->
 <!--        <sourceDirectory>${project.basedir}/src/main/kotlin</sourceDirectory>-->
 <!--        <testSourceDirectory>${project.basedir}/src/test/kotlin</testSourceDirectory>-->
 
