@@ -16,5 +16,8 @@
  */
 package de.flapdoodle.noop
 
+/**
+ * KNoop
+ */
 class KNoop {
 }
