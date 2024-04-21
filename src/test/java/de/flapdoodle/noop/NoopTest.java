@@ -23,7 +23,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class NoopTest {
 	@Test
 	public void noop() {
-		Noop testee = new Noop();
+		KNoop testee = new KNoop();
 		assertThat(testee).isNotNull();
 
 		assertThat(testee.getClass().getResource("Noop.txt"))
