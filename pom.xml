@@ -306,8 +306,8 @@
                     <execution>
                         <phase>prepare-package</phase>
                         <goals>
-                            <goal>dokka</goal>
-                            <goal>javadoc</goal>
+<!--                            <goal>dokka</goal>-->
+<!--                            <goal>javadoc</goal>-->
                             <goal>javadocJar</goal>
                         </goals>
                     </execution>
