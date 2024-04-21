@@ -35,5 +35,6 @@ velocity.log
 
 # idea settings #
 .idea
+*.iml
 
 .factorypath
